@@ -1,0 +1,8 @@
+langchain
+moviepy
+openai
+tiktoken
+pytube
+requests
+streamlit
+chromadb
